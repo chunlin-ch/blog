@@ -6,7 +6,7 @@
   <link href="http://chunlin.ch/atom.xml" rel="self"/>
   
   <link href="http://chunlin.ch/"/>
-  <updated>2022-07-23T14:48:27.438Z</updated>
+  <updated>2022-07-24T14:34:09.053Z</updated>
   <id>http://chunlin.ch/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我们需要什么样的存储空间</title>
+    <link href="http://chunlin.ch/2022/07/24/immortalbox/"/>
+    <id>http://chunlin.ch/2022/07/24/immortalbox/</id>
+    <published>2022-07-24T14:11:39.000Z</published>
+    <updated>2022-07-24T14:34:09.053Z</updated>
+    
+    <content type="html"><![CDATA[<p>回望从存储器发明至今的数十年，存储个人数据的时期只有最近30年： 我们在自己的硬盘、U盘，逐渐随着云计算基础普及，在各类网盘、甚至私有网盘存储着我们的工作材料、照片甚至你的比特币的token和地址（你该不会把他们放在一个文件夹吧？不过很多人都是如此）。你有思考过以下两点吗：</p><ul><li>哪些文件是我要终身保存，不管什么情况下我都不想失去它</li><li>我能信任哪些存储方式： U盘、电脑硬盘、网盘、自建NAS、邮箱、QQ空间、…… 他能安全滴保存它吗</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;回望从存储器发明至今的数十年，存储个人数据的时期只有最近30年： 我们在自己的硬盘、U盘，逐渐随着云计算基础普及，在各类网盘、甚至私有网盘存储着我们的工作材料、照片甚至你的比特币的token和地址（你该不会把他们放在一个文件夹吧？不过很多人都是如此）。你有思考过以下两点吗：</summary>
+      
+    
+    
+    
+    
+    <category term="灵光一闪" scheme="http://chunlin.ch/tags/%E7%81%B5%E5%85%89%E4%B8%80%E9%97%AA/"/>
+    
+  </entry>
   
   <entry>
     <title>这个世界会好吗---讲座笔记</title>
